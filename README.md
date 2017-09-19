@@ -1,2 +1,2 @@
 # hi_world
-a bit about yourself.
+/* a bit about yourself. */
